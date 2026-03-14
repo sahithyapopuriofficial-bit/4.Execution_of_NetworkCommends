@@ -72,6 +72,7 @@ print("Running Traceroute...\n")
 os.system("C:\\Windows\\System32\\tracert.exe google.com")
 ```
 ## Output
+### 1)ping
 
 ## Result
 Thus Execution of Network commands Performed 
