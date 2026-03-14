@@ -72,11 +72,6 @@ print("Running Traceroute...\n")
 os.system("C:\\Windows\\System32\\tracert.exe google.com")
 ```
 ## Output
-<img width="487" height="164" alt="image" src="https://github.com/user-attachments/assets/ee5b7844-894d-40cc-8c68-656a21e62112" />
-
-<img width="544" height="329" alt="image" src="https://github.com/user-attachments/assets/b8d3164c-e63c-4c30-a274-35f461f6a032" />
-
-<img width="748" height="886" alt="image" src="https://github.com/user-attachments/assets/74918df7-6324-4610-bfbd-35a00d78f697" />
 
 ## Result
 Thus Execution of Network commands Performed 
